@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500&family=DM+Serif+Display:ital@0;1&family=Fira+Sans&family=Gideon+Roman&family=Gwendolyn:wght@700&family=Lora&family=Manrope:wght@200;300&family=Meow+Script&family=Merriweather:ital,wght@1,300&family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Nunito+Sans:ital,wght@0,200;1,200&family=Nunito:ital,wght@0,200;0,400;0,700;0,800;1,200;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;1,300&family=Playfair+Display:ital,wght@0,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300&family=Raleway:wght@200;300;500&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&family=Rubik:wght@300&family=Satisfy&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+
+.des{
+   margin-top: -350px;
+   margin-left: 120px;
+   margin-right: 70px;
+  
+}
+.container p{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    margin-left: 400px;
+  
+   
+    
+  
+}
+.container h4{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    margin-left: 340px;
+
+}
+.container h3{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    margin-left: 400px;
+   
+
+}
+
+
+.wrapper Image{
+    margin-left: 2rem;
+    width: 200px;
+    
+}
+.redirect{
+    margin-top: 100px;
+    margin-left: 880px;
+    cursor: pointer;
+    background-color: darkorange;
+    border-radius: 4px;
+    width: 160px;
+    height: 38px;
+}
+.cart{
+    margin-left: 150px;
+    cursor: pointer;
+    background-color: darkorange;
+    border-radius: 4px;
+    width: 160px;
+    height: 38px;
+}
